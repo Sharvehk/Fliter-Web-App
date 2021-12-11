@@ -1,0 +1,14 @@
+body{
+    font-family: 'Indie Flower', cursive !important; 
+    background-image: url("background.jpg");
+}
+
+#main_button:hover{
+   background-color:rgb(255, 73, 73);
+}
+
+canvas{
+    border:2px solid rgb(107, 107, 107);
+    height: 400px;
+    width: 500px;
+}
